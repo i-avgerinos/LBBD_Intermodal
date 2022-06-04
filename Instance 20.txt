@@ -1,0 +1,250 @@
+-----------------------------------------------------------------------------------------------
+Generated Scheduled Services Timetable for Instance 20
+-----------------------------------------------------------------------------------------------
+Roadway Services
+-----------------------------------------------------------------------------------------------
+From DC hub 0
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 08:00		Fri 04:00			DC hub 1			0
+Mon 08:00		Thu 04:00			DC hub 2			4
+Mon 08:00		Thu 12:00			Intermediate hub 3	8
+Mon 08:00		Fri 16:00			Satellite hub 4		12
+Mon 08:00		Sun 16:00			Satellite hub 5		16
+Mon 08:00		Sun 16:00			Satellite hub 6		20
+Wed 08:00		Sun 04:00			DC hub 1			1
+Wed 08:00		Thu 04:00			DC hub 2			5
+Wed 08:00		Sat 12:00			Intermediate hub 3	9
+Wed 08:00		Mon 16:00			Satellite hub 4		13
+Wed 08:00		Tue 16:00			Satellite hub 5		17
+Wed 08:00		Sun 16:00			Satellite hub 6		21
+Fri 08:00		Sun 04:00			DC hub 1			2
+Fri 08:00		Sun 04:00			DC hub 2			6
+Fri 08:00		Mon 12:00			Intermediate hub 3	10
+Fri 08:00		Mon 16:00			Satellite hub 4		14
+Fri 08:00		Wed 16:00			Satellite hub 5		18
+Fri 08:00		Wed 16:00			Satellite hub 6		22
+Sun 08:00		Wed 04:00			DC hub 1			3
+Sun 08:00		Wed 04:00			DC hub 2			7
+Sun 08:00		Tue 12:00			Intermediate hub 3	11
+Sun 08:00		Fri 16:00			Satellite hub 4		15
+Sun 08:00		Thu 16:00			Satellite hub 5		19
+Sun 08:00		Wed 16:00			Satellite hub 6		23
+---------------------------------------------------------------------
+From DC hub 1
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 08:00		Thu 04:00			DC hub 0			24
+Mon 08:00		Wed 04:00			DC hub 2			28
+Mon 08:00		Wed 12:00			Intermediate hub 3	32
+Mon 08:00		Sat 16:00			Satellite hub 4		36
+Mon 08:00		Thu 16:00			Satellite hub 5		40
+Mon 08:00		Fri 16:00			Satellite hub 6		44
+Wed 08:00		Sat 04:00			DC hub 0			25
+Wed 08:00		Fri 04:00			DC hub 2			29
+Wed 08:00		Sun 12:00			Intermediate hub 3	33
+Wed 08:00		Tue 16:00			Satellite hub 4		37
+Wed 08:00		Sun 16:00			Satellite hub 5		41
+Wed 08:00		Sat 16:00			Satellite hub 6		45
+Fri 08:00		Sat 04:00			DC hub 0			26
+Fri 08:00		Mon 04:00			DC hub 2			30
+Fri 08:00		Sun 12:00			Intermediate hub 3	34
+Fri 08:00		Tue 16:00			Satellite hub 4		38
+Fri 08:00		Thu 16:00			Satellite hub 5		42
+Fri 08:00		Tue 16:00			Satellite hub 6		46
+Sun 08:00		Thu 04:00			DC hub 0			27
+Sun 08:00		Thu 04:00			DC hub 2			31
+Sun 08:00		Wed 12:00			Intermediate hub 3	35
+Sun 08:00		Sat 16:00			Satellite hub 4		39
+Sun 08:00		Sat 16:00			Satellite hub 5		43
+Sun 08:00		Sat 16:00			Satellite hub 6		47
+---------------------------------------------------------------------
+From DC hub 2
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 08:00		Tue 04:00			DC hub 0			48
+Mon 08:00		Fri 04:00			DC hub 1			52
+Mon 08:00		Fri 12:00			Intermediate hub 3	56
+Mon 08:00		Sun 16:00			Satellite hub 4		60
+Mon 08:00		Fri 16:00			Satellite hub 5		64
+Mon 08:00		Sat 16:00			Satellite hub 6		68
+Wed 08:00		Sun 04:00			DC hub 0			49
+Wed 08:00		Sat 04:00			DC hub 1			53
+Wed 08:00		Sat 12:00			Intermediate hub 3	57
+Wed 08:00		Sun 16:00			Satellite hub 4		61
+Wed 08:00		Mon 16:00			Satellite hub 5		65
+Wed 08:00		Sat 16:00			Satellite hub 6		69
+Fri 08:00		Sat 04:00			DC hub 0			50
+Fri 08:00		Mon 04:00			DC hub 1			54
+Fri 08:00		Mon 12:00			Intermediate hub 3	58
+Fri 08:00		Thu 16:00			Satellite hub 4		62
+Fri 08:00		Wed 16:00			Satellite hub 5		66
+Fri 08:00		Thu 16:00			Satellite hub 6		70
+Sun 08:00		Wed 04:00			DC hub 0			51
+Sun 08:00		Wed 04:00			DC hub 1			55
+Sun 08:00		Tue 12:00			Intermediate hub 3	59
+Sun 08:00		Fri 16:00			Satellite hub 4		63
+Sun 08:00		Fri 16:00			Satellite hub 5		67
+Sun 08:00		Fri 16:00			Satellite hub 6		71
+---------------------------------------------------------------------
+From Intermediate hub 3
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 12:00		Wed 08:00			DC hub 0			72
+Mon 12:00		Wed 08:00			DC hub 1			76
+Mon 12:00		Thu 08:00			DC hub 2			80
+Mon 12:00		Sat 20:00			Satellite hub 4		84
+Mon 12:00		Thu 20:00			Satellite hub 5		88
+Mon 12:00		Fri 20:00			Satellite hub 6		92
+Wed 12:00		Sun 08:00			DC hub 0			73
+Wed 12:00		Sat 08:00			DC hub 1			77
+Wed 12:00		Fri 08:00			DC hub 2			81
+Wed 12:00		Sat 20:00			Satellite hub 4		85
+Wed 12:00		Mon 20:00			Satellite hub 5		89
+Wed 12:00		Tue 20:00			Satellite hub 6		93
+Fri 12:00		Sun 08:00			DC hub 0			74
+Fri 12:00		Sun 08:00			DC hub 1			78
+Fri 12:00		Mon 08:00			DC hub 2			82
+Fri 12:00		Tue 20:00			Satellite hub 4		86
+Fri 12:00		Wed 20:00			Satellite hub 5		90
+Fri 12:00		Wed 20:00			Satellite hub 6		94
+Sun 12:00		Tue 08:00			DC hub 0			75
+Sun 12:00		Mon 08:00			DC hub 1			79
+Sun 12:00		Mon 08:00			DC hub 2			83
+Sun 12:00		Wed 20:00			Satellite hub 4		87
+Sun 12:00		Fri 20:00			Satellite hub 5		91
+Sun 12:00		Sat 20:00			Satellite hub 6		95
+---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+Railway Services
+-----------------------------------------------------------------------------------------------
+From DC hub 0
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Tue 09:00		Sat 06:00			DC hub 1			96
+Tue 09:00		Thu 06:00			DC hub 2			99
+Tue 09:00		Fri 14:00			Intermediate hub 3	102
+Tue 09:00		Sun 18:00			Satellite hub 4		105
+Tue 09:00		Sat 18:00			Satellite hub 5		108
+Thu 09:00		Fri 06:00			DC hub 1			97
+Thu 09:00		Mon 06:00			DC hub 2			100
+Thu 09:00		Sun 14:00			Intermediate hub 3	103
+Thu 09:00		Sun 18:00			Satellite hub 4		106
+Thu 09:00		Mon 18:00			Satellite hub 5		109
+Sat 09:00		Wed 06:00			DC hub 1			98
+Sat 09:00		Mon 06:00			DC hub 2			101
+Sat 09:00		Tue 14:00			Intermediate hub 3	104
+Sat 09:00		Fri 18:00			Satellite hub 4		107
+Sat 09:00		Tue 18:00			Satellite hub 5		110
+---------------------------------------------------------------------
+From DC hub 1
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Tue 09:00		Wed 06:00			DC hub 0			111
+Tue 09:00		Fri 06:00			DC hub 2			114
+Tue 09:00		Sat 14:00			Intermediate hub 3	117
+Tue 09:00		Fri 18:00			Satellite hub 4		120
+Tue 09:00		Sat 18:00			Satellite hub 5		123
+Thu 09:00		Sat 06:00			DC hub 0			112
+Thu 09:00		Sat 06:00			DC hub 2			115
+Thu 09:00		Sun 14:00			Intermediate hub 3	118
+Thu 09:00		Wed 18:00			Satellite hub 4		121
+Thu 09:00		Sun 18:00			Satellite hub 5		124
+Sat 09:00		Sun 06:00			DC hub 0			113
+Sat 09:00		Mon 06:00			DC hub 2			116
+Sat 09:00		Mon 14:00			Intermediate hub 3	119
+Sat 09:00		Fri 18:00			Satellite hub 4		122
+Sat 09:00		Tue 18:00			Satellite hub 5		125
+---------------------------------------------------------------------
+From DC hub 2
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Tue 09:00		Fri 06:00			DC hub 0			126
+Tue 09:00		Fri 06:00			DC hub 1			129
+Tue 09:00		Thu 14:00			Intermediate hub 3	132
+Tue 09:00		Sat 18:00			Satellite hub 4		135
+Tue 09:00		Fri 18:00			Satellite hub 5		138
+Thu 09:00		Sat 06:00			DC hub 0			127
+Thu 09:00		Sat 06:00			DC hub 1			130
+Thu 09:00		Sat 14:00			Intermediate hub 3	133
+Thu 09:00		Mon 18:00			Satellite hub 4		136
+Thu 09:00		Tue 18:00			Satellite hub 5		139
+Sat 09:00		Mon 06:00			DC hub 0			128
+Sat 09:00		Mon 06:00			DC hub 1			131
+Sat 09:00		Wed 14:00			Intermediate hub 3	134
+Sat 09:00		Thu 18:00			Satellite hub 4		137
+Sat 09:00		Wed 18:00			Satellite hub 5		140
+---------------------------------------------------------------------
+From Intermediate hub 3
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Tue 13:00		Fri 10:00			DC hub 0			141
+Tue 13:00		Wed 10:00			DC hub 1			144
+Tue 13:00		Thu 10:00			DC hub 2			147
+Tue 13:00		Sun 22:00			Satellite hub 4		150
+Tue 13:00		Fri 22:00			Satellite hub 5		153
+Thu 13:00		Sat 10:00			DC hub 0			142
+Thu 13:00		Sun 10:00			DC hub 1			145
+Thu 13:00		Sun 10:00			DC hub 2			148
+Thu 13:00		Tue 22:00			Satellite hub 4		151
+Thu 13:00		Sun 22:00			Satellite hub 5		154
+Sat 13:00		Wed 10:00			DC hub 0			143
+Sat 13:00		Tue 10:00			DC hub 1			146
+Sat 13:00		Sun 10:00			DC hub 2			149
+Sat 13:00		Wed 22:00			Satellite hub 4		152
+Sat 13:00		Fri 22:00			Satellite hub 5		155
+---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+Shipway Services
+-----------------------------------------------------------------------------------------------
+From DC hub 0
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 10:00		Fri 08:00			DC hub 1			156
+Mon 10:00		Wed 16:00			Intermediate hub 3	159
+Mon 10:00		Sat 20:00			Satellite hub 5		162
+Wed 10:00		Sun 08:00			DC hub 1			157
+Wed 10:00		Sun 16:00			Intermediate hub 3	160
+Wed 10:00		Sun 20:00			Satellite hub 5		163
+Fri 10:00		Sun 08:00			DC hub 1			158
+Fri 10:00		Mon 16:00			Intermediate hub 3	161
+Fri 10:00		Thu 20:00			Satellite hub 5		164
+---------------------------------------------------------------------
+From DC hub 1
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 10:00		Fri 08:00			DC hub 0			165
+Mon 10:00		Thu 16:00			Intermediate hub 3	168
+Mon 10:00		Fri 20:00			Satellite hub 5		171
+Wed 10:00		Fri 08:00			DC hub 0			166
+Wed 10:00		Fri 16:00			Intermediate hub 3	169
+Wed 10:00		Mon 20:00			Satellite hub 5		172
+Fri 10:00		Tue 08:00			DC hub 0			167
+Fri 10:00		Sun 16:00			Intermediate hub 3	170
+Fri 10:00		Mon 20:00			Satellite hub 5		173
+---------------------------------------------------------------------
+From Intermediate hub 3
+---------------------------------------------------------------------
+Departure		Arrival			Destination			ID
+---------------------------------------------------------------------
+Mon 13:00		Tue 10:00			DC hub 0			174
+Mon 13:00		Thu 10:00			DC hub 1			177
+Mon 13:00		Sat 22:00			Satellite hub 5		180
+Wed 13:00		Fri 10:00			DC hub 0			175
+Wed 13:00		Sat 10:00			DC hub 1			178
+Wed 13:00		Tue 22:00			Satellite hub 5		181
+Fri 13:00		Sat 10:00			DC hub 0			176
+Fri 13:00		Sat 10:00			DC hub 1			179
+Fri 13:00		Wed 22:00			Satellite hub 5		182
+---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
